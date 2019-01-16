@@ -1,0 +1,42 @@
+﻿.body { 
+    margin: null; 
+    background-url(Tugas Web/mokletfront.jpg);
+}
+.topnav {
+    overflow:hidden; 
+    background-color: black;
+    color: white;
+    font-size:8px;
+    
+}
+.topnav a{
+    float: left;
+    display: block;
+    color: white;
+    text-align : center;
+    padding : 14px 16px;
+    text-decoration:none;
+    margin: auto;
+}
+.topnav a:hoover {
+    color: red;
+}
+#smp {
+    text-align:left;
+    float: left;
+    color: black;
+    width: 290px;
+    height: 200px;
+    margin: 180px;
+}
+#sambutan {
+    text-align : left;
+    border-float:right;
+    border-width: 290px;
+    border-height: 200px;
+    margin:180px;
+}
+#ul{
+    text-align:left;
+    background-color: gray;
+}
